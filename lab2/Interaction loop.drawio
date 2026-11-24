@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="ZdjdTuUW7d3wtEvffeTM">
+    <mxGraphModel dx="2041" dy="1397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-6" edge="1" parent="1" source="CmnOVHDxjl1vyoLLRwgF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CmnOVHDxjl1vyoLLRwgF-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User&#39;s Goal: express themself in VR" vertex="1">
+          <mxGeometry height="30" width="140" x="-720" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-8" edge="1" parent="1" source="CmnOVHDxjl1vyoLLRwgF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CmnOVHDxjl1vyoLLRwgF-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System Senses: tracks the user&#39;s facial structure and body positioning&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="170" x="-480" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-11" edge="1" parent="1" source="CmnOVHDxjl1vyoLLRwgF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="CmnOVHDxjl1vyoLLRwgF-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="System infers: the emotion the user is trying to portray" vertex="1">
+          <mxGeometry height="40" width="170" x="-230" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-13" edge="1" parent="1" source="CmnOVHDxjl1vyoLLRwgF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CmnOVHDxjl1vyoLLRwgF-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Visual: the system updates the User&#39;s VR model" vertex="1">
+          <mxGeometry height="40" width="170" x="-310" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-14" edge="1" parent="1" source="CmnOVHDxjl1vyoLLRwgF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="CmnOVHDxjl1vyoLLRwgF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CmnOVHDxjl1vyoLLRwgF-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Visual: The user can see their virtual expressions" vertex="1">
+          <mxGeometry height="40" width="170" x="-735" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
